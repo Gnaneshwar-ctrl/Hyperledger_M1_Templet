@@ -4,12 +4,11 @@ this is a build of Hyperledger Fabric 2.2 templet for apple M1 as binaries are n
 Clone Fabric
 
 *** git clone https://github.com/hyperledger/fabric 
-$GOPATH/src/github.com/hyperledger/fabric
 
 Clone Fabric-CA
 
 *** git clone https://github.com/hyperledger/fabric-ca 
-$GOPATH/src/github.com/hyperledger/fabric-ca
+
 
 
 --> Change to the Fabric repo
